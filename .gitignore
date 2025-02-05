@@ -48,3 +48,6 @@ src
 *.prof
 
 MUJOCO_LOG.TXT
+/scripts/models/
+/scripts/runs/
+/scripts/wandb/
